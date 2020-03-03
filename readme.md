@@ -1,5 +1,5 @@
 === I like ===
-Contributors: @mehulrojasara
+Contributors: mehulrojasara
 Donate link: https://www.mrtangle.com/
 Requires at least: 4.0
 Tested up to: 5.3.2
