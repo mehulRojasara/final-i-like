@@ -1,4 +1,6 @@
 === I like ===
+Contributors: @mehulrojasara
+Donate link: https://www.mrtangle.com/
 Requires at least: 4.0
 Tested up to: 5.3.2
 Stable tag: 1.0
